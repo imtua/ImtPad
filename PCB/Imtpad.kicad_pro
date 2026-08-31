@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CoolAwesomeHackpad.kicad_pro",
+    "filename": "Imtpad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/imtiaz/Documents/ImtPad/production/gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -643,8 +643,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "CoolAwesomeHackpad.kicad_sch",
-        "name": "Root",
+        "filename": "Imtpad.kicad_sch",
+        "name": "Imtpad",
         "uuid": "cb14803d-182d-43b2-899f-6b862dbbf596"
       }
     ],
