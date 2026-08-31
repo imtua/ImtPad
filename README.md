@@ -11,6 +11,7 @@ Here's the project in Stardance: https://stardance.hackclub.com/projects/2196
 ![Top](assets/readme/top.png)
 ![Bottom](assets/readme/bottom.png)
 ![3D printed parts](/IMG_1040.jpg)
+Used while filament as yellow wasn't present.
 
 ## Schematics
 ![Schematics](assets/readme/schematics.png)
