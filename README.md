@@ -42,6 +42,8 @@ Used while filament as yellow wasn't present.
 - 16x **SK6812 MINI-E LEDs**
 - 6x **M3x16mm screws**
 - 6x **M3x5mx4mm heatset inserts**
+Here's a image to show what will be provided-
+![Hackpad Kit](/assets/readme/hackpad%20kit.png)
 
 **Grants**
 - 10$ Grant for HackPad PCB
