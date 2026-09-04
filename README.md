@@ -1,7 +1,6 @@
 # ImtPad - Micropad, Project of Hack Club
 
-Hi, I'm Imtiaz Ahmed. In the mission of hack club stardance.hackclub.com , I reverse engineered a 6 Button Micropad and made it exactly like his.
-Here's the project in Stardance: https://stardance.hackclub.com/projects/2196
+Hi, It's <a href="github.com/imtua"><b>Imtiaz Ahamed</b></a>, student of 10th grade from Bangladesh. <a href="github.com/imtua/ImtPad"><b>ImtPad</b></a> is a reference project of <a href="hackpad.hackclub.com"><b>Hackpad</b></a>, a project of <a href="hackclub.com"><b>Hack Club</b></a>.
 
 **Build Status: Ordered parts from online, they're taking time to arrive**
 ## Project Overall
@@ -31,6 +30,23 @@ Used while filament as yellow wasn't present.
 - 6x Cherry DSA Keycaps
 - 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
+
+## Items provided by Hack Club
+**Items in Hackpad kit**
+- 1 unsoldered **<a href=""><b>Seeed XIAO RP2040</b></a>**
+- 20x through-hole **1N4148 Diodes**
+- 16x **MX-Style switches**
+- 2x **EC11E Rotary encoders** (with switch!)
+- 1x **0.91 inch OLED display**
+- 16x **White blank DSA keycaps**
+- 16x **SK6812 MINI-E LEDs**
+- 6x **M3x16mm screws**
+- 6x **M3x5mx4mm heatset inserts**
+
+**Grants**
+- 10$ Grant for HackPad PCB
+- 8$ Grant for Hackpad 3D Print
+- 18$ Grant for a soldering iron, if you need one!
 
 ## Thanks to Hack Club.
 Hack Club Stardance: stardance.hackclub.com
