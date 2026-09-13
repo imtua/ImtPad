@@ -1,10 +1,10 @@
 # ImtPad - Macropad, Project of Hack Club
 
-Hi, It's <a href="github.com/imtua"><b>Imtiaz Ahamed</b></a>, student of 10th grade from Bangladesh. <a href="github.com/imtua/ImtPad"><b>ImtPad</b></a>is a reference project of <a href="hackpad.hackclub.com"><b>HackPad</b></a>, a project of <a href="hackclub.com"><b>Hack Club</b></a>.
+Hi, It's <a href="github.com/imtua"><b>Imtiaz Ahamed</b></a>, student of 10th grade from Bangladesh. <a href="github.com/imtua/ImtPad"><b>ImtPad</b></a> is a reference/example of <a href="hackpad.hackclub.com"><b>Hackpad</b></a>, a project of <a href="hackclub.com"><b>Hack Club</b></a>.
 
-**Build Status: Ordered Parts from Online, they're taking time to arrive.**
+**Build Status: I received the 3D Parts and PCBs. The Hackpad kit is on its way, it may take much time as it took a lot of time to get ready, lol.**
 
-## Project Overall
+## Project Overview 
 ![Full](/assets/readme/full.png)
 
 ## 3D Printed Parts
@@ -50,6 +50,16 @@ Here's a image to convey what will be provided by Hack Club-
 - **10$** Grant for **Hackpad PCB**
 - **8$** Grant for **Hackpad 3D Print**
 - **18** Grant for **a soldering iron**, if you need one!
+
+## Updates
+**07 September 2026**
+Received the 3D Prints, they're white. Raahi Chedda from Printing Legion from Hack Club sent me the parts. They are cool as hell.
+![3D](/assets/readme/3d.png)
+
+**13 September 2026**
+Received 10 Pieces of the PCB, 5 white and 5 green. How cool are they!
+![PCBS](/assets/readme/pcbs.png)
+
 
 ## Special Thanks to Hack Club
 Hack Club Stardance: stardance.hackclub.com, <a href="https://stardance.space/r-aq7c7"><b>Register through my link!</b></a>
